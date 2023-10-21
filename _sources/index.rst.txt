@@ -6,22 +6,15 @@
 Welcome to songtaohua-work's documentation!
 ===========================================
 
-
-これはSpinxのテストです。
-===========================================
-
 .. toctree::
    :maxdepth: 2
-   :caption: OverView
-   :numbered:
+   :caption: Contents:
 
-   test1
-   test2
-   test3
++   hello
 
-.. toctree::
-   :maxdepth: 2
-   :caption: test3だけ
-   :numbered:
+Indices and tables
+==================
 
-   test3
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
